@@ -9,7 +9,7 @@
 👨‍💻 About Me
 
 🎓 Fresh Graduate — B.Tech in Computer Science
-🌍 Based in Bhopal, Madhya Pradesh, India
+🌍 Based in Indore, Madhya Pradesh, India
 💻 Passionate about Frontend Development & Problem Solving
 🌱 Currently learning React.js, Python & DSA with C++
 🚀 Building projects to sharpen my skills every day
