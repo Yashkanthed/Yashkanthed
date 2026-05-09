@@ -57,7 +57,7 @@ ProjectDescriptionTech UsedLive🤖 Jarvis AI AssistantVoice-based AI assistant 
   <a href="https://www.linkedin.com/in/yashkanthed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yashkanthed@gmail.com" target="_blank">
+  <a href="mailto:dakshyash1908@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
